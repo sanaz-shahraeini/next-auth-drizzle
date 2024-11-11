@@ -20,7 +20,8 @@ const HomePage = () => {
         </header>
         <main className="container mx-auto py-8 flex-grow"> {/* Allow main to grow and take available space */}
           <h2 className="text-3xl font-bold mb-4">Welcome to My Website!</h2>
-          <p className="text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>providers default signin page:</h3>
+          <p className="text-lg">http://localhost:3000/api/auth/signin</p>
         </main>
         <footer className="bg-black text-white p-4 mt-8">
           <div className="container mx-auto text-center">

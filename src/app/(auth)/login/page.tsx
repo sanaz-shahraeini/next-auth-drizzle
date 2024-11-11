@@ -1,4 +1,5 @@
 "use client"
+import { signIn } from "@/app/auth";
 const LoginForm = () => {
   return (
     <div className="flex min-h-screen items-center justify-center bg-gray-100">
